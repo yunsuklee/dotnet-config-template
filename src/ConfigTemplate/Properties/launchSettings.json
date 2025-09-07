@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConfigTemplate": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\samples",
+      "workingDirectory": "D:\\repos\\dotnet-config-template"
+    }
+  }
+}
